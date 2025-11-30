@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Self-Healing+Infrastructure;Across+9%2B+Countries+%F0%9F%8C%8D;For+Global+Banking+Clients+%F0%9F%8F%A6" alt="Typing SVG" />
+**`> Linux boxes, container networks, and everything in between`**
 
 <br/>
 
@@ -165,7 +165,7 @@ timeline
          : Kubernetes Clusters
     2025 : DevOps Engineer @ Affinsys AI
          : Core R&D Team
-         : Global Banking Clients
+         : Platform Engineering
 ```
 
 <details>
@@ -176,12 +176,12 @@ timeline
 ### 🚀 DevOps Engineer @ Affinsys AI
 **Jul 2025 - Present** • Bengaluru
 
-> Core R&D Team • Global Banking Infrastructure
+> Core R&D Team • Platform Engineering
 
 | Responsibility | Impact |
 |---------------|--------|
-| 🌏 Multi-region deployments | 9+ countries across 4 continents |
 | ☸️ K8s cluster management | High-availability SaaS platform |
+| 🔧 On-prem + Cloud infra | Hybrid infrastructure |
 | 🔔 24×7 on-call support | <5 min incident response |
 | 👥 Team mentorship | Onboarded 3+ engineers |
 
@@ -200,34 +200,11 @@ timeline
 ### 🎓 DevOps Intern @ BankBuddy.ai
 **Dec 2023 - Jun 2024** • Bengaluru
 
-- 📦 RHEL server deployments for 4+ banking clients
+- 📦 RHEL server deployments across multiple environments
 - 🐍 Python automation for container resource monitoring
 - 🧪 JMeter automation testing integration
 
 </details>
-
----
-
-## 🌍 Global Footprint
-
-<div align="center">
-
-```
-                    🌏 INFRASTRUCTURE DEPLOYED ACROSS
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                                                           ║
-    ║   🇵🇭 Philippines    🇲🇾 Malaysia    🇵🇬 Papua New Guinea   ║
-    ║                                                           ║
-    ║   🇿🇲 Zambia    🇧🇼 Botswana    🇲🇼 Malawi    🇿🇼 Zimbabwe   ║
-    ║                                                           ║
-    ║   🇰🇪 Kenya                          🇸🇷 Suriname          ║
-    ║                                                           ║
-    ╚═══════════════════════════════════════════════════════════╝
-                        9+ Countries • 4 Continents
-                     Banking & Financial Infrastructure
-```
-
-</div>
 
 ---
 
