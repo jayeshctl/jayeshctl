@@ -1,169 +1,87 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jayesh%20Savkare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Platform%20Engineer&descAlignY=55&descSize=18"/>
+
 <div align="center">
 
-# 🌟 Jayesh Savkare
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer+%40+Affinsys+AI;Cloud+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Kubernetes+%26+Infrastructure+Specialist;Building+Self-Healing+Systems+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Self-Healing+Infrastructure;Across+9%2B+Countries+%F0%9F%8C%8D;For+Global+Banking+Clients+%F0%9F%8F%A6" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayeshsavkare)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jayesh.savkare.com)
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://jayeshsays.blog/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh.savkare.work@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jayeshctl&style=for-the-badge&color=6366F1)](https://github.com/jayeshctl)
+<!-- Social Badges with Hover Effect -->
+<a href="https://www.linkedin.com/in/jayeshsavkare"><img src="https://img.shields.io/badge/-jayeshsavkare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://jayesh.savkare.com"><img src="https://img.shields.io/badge/-Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://jayeshsays.blog/"><img src="https://img.shields.io/badge/-Tech_Blog-764ba2?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="mailto:jayesh.savkare.work@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jayeshctl&style=flat-square&color=667eea)
+![GitHub followers](https://img.shields.io/github/followers/jayeshctl?style=flat-square&color=764ba2)
 
 </div>
 
 ---
 
-<img align="right" alt="DevOps Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<!-- About Section with Animation -->
+<img align="right" alt="DevOps" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### 👨‍💻 About Me
+## 🧑‍💻 `whoami`
 
-I'm a **DevOps Engineer** working across on-premise and cloud environments (**AWS, Azure, GCP, OCI**). I focus on solving root causes, strengthening systems, and building safeguards that prevent repeat issues.
+```yaml
+name: Jayesh Savkare
+role: DevOps Engineer @ Affinsys AI
+location: Bengaluru, India 🇮🇳
+experience: 1.5+ years
 
-My experience spans **global deployments for banking clients** across **Southeast Asia, Oceania, Africa, and South America**, where I've learned to adapt quickly and deliver lasting solutions.
+current_focus:
+  - Platform Engineering
+  - GitOps & Infrastructure as Code
+  - Cloud Native Solutions
 
-> *"I believe in building self-healing systems that minimize firefighting and free teams to innovate."*
+philosophy: |
+  "Build systems that heal themselves,
+   so teams can focus on innovation."
+```
 
 <br clear="right"/>
 
 ---
 
-## 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-DevOps_Specialization-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Skill_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>☁️ Cloud Platforms</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🐳 Containers & Orchestration</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🔄 CI/CD & Automation</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>📊 Monitoring & Security</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🖥️ Infrastructure & Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>💻 Languages & Scripting</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-</details>
-
----
-
-## 💼 Professional Journey
+## 🎯 What I Bring to the Table
 
 <table>
 <tr>
-<td>
+<td width="50%" align="center">
 
-### 🚀 Affinsys AI
-**DevOps Engineer** • *Jul 2025 - Present*
+<img src="https://img.icons8.com/fluency/96/cloud-development.png" width="60"/>
 
-Core R&D Team member managing infrastructure for banking clients globally:
-- 🌏 **Regions:** Philippines, Malaysia, Papua New Guinea, Zambia, Botswana, Malawi, Zimbabwe, Kenya, Suriname
-- ☸️ Managing internal Kubernetes clusters & SaaS offerings
-- 🔔 24×7 on-call infrastructure support
-- 👥 Mentoring new team members
+### ☁️ Multi-Cloud
+AWS • Azure • GCP • OCI
 
 </td>
-<td>
+<td width="50%" align="center">
 
-### 🔧 Associate DevOps Engineer
-**Affinsys AI** • *Jul 2024 - Jun 2025*
+<img src="https://img.icons8.com/fluency/96/docker.png" width="60"/>
 
-- Hybrid infrastructure (on-prem + cloud) management
-- Built & maintained secure Kubernetes clusters
-- Linux tuning with Nginx, MinIO, Cloudflare
-- Automated monitoring & alerting systems
-- Cross-functional collaboration with dev & ops teams
+### 🐳 Container Orchestration
+Kubernetes • Docker • Helm
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" align="center">
 
-### 🎓 DevOps Intern
-**BankBuddy.ai** • *Dec 2023 - Jun 2024*
+<img src="https://img.icons8.com/fluency/96/infinity.png" width="60"/>
 
-- 24/7 infrastructure & network support
-- Python automation for containerized services
-- RHEL server deployments for 4+ banking clients
-- JMeter automation testing scripts
+### 🔄 CI/CD & GitOps
+Jenkins • ArgoCD • GitHub Actions
 
 </td>
-<td>
+<td width="50%" align="center">
 
-### ☁️ Earlier Roles
+<img src="https://img.icons8.com/fluency/96/dashboard.png" width="60"/>
 
-**Technical Research Analyst** @ Intellipaat  
-*Aug - Oct 2023* • AWS Services
-
-**Cloud Intern** @ Microsoft Azure (FRT '21)  
-*Sep 2021 - Jan 2022* • Remote
+### 📊 Observability
+Prometheus • Grafana • Loki
 
 </td>
 </tr>
@@ -171,80 +89,231 @@ Core R&D Team member managing infrastructure for banking clients globally:
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/AZ--900-Microsoft_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/AWS-DevOps_Specialization-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+### 🔄 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### 📊 Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+### 🖥️ Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Career Timeline
+
+```mermaid
+timeline
+    title My DevOps Journey
+    2021 : Cloud Intern @ Microsoft Azure
+         : FRT '21 Program
+    2023 : Technical Research Analyst @ Intellipaat
+         : AWS Services
+    2023 : DevOps Intern @ BankBuddy.ai
+         : 24/7 Infrastructure Support
+         : RHEL Deployments
+    2024 : Associate DevOps Engineer @ Affinsys AI
+         : Hybrid Infrastructure
+         : Kubernetes Clusters
+    2025 : DevOps Engineer @ Affinsys AI
+         : Core R&D Team
+         : Global Banking Clients
+```
+
+<details>
+<summary><b>📋 Click to see detailed experience</b></summary>
+
+<br/>
+
+### 🚀 DevOps Engineer @ Affinsys AI
+**Jul 2025 - Present** • Bengaluru
+
+> Core R&D Team • Global Banking Infrastructure
+
+| Responsibility | Impact |
+|---------------|--------|
+| 🌏 Multi-region deployments | 9+ countries across 4 continents |
+| ☸️ K8s cluster management | High-availability SaaS platform |
+| 🔔 24×7 on-call support | <5 min incident response |
+| 👥 Team mentorship | Onboarded 3+ engineers |
+
+---
+
+### 🔧 Associate DevOps Engineer @ Affinsys AI  
+**Jul 2024 - Jun 2025** • Bengaluru
+
+- ✅ Hybrid infrastructure management (on-prem + multi-cloud)
+- ✅ Built secure, production-grade Kubernetes clusters
+- ✅ Performance tuning: Nginx, MinIO, Cloudflare stack
+- ✅ Automated monitoring with custom alerting pipelines
+
+---
+
+### 🎓 DevOps Intern @ BankBuddy.ai
+**Dec 2023 - Jun 2024** • Bengaluru
+
+- 📦 RHEL server deployments for 4+ banking clients
+- 🐍 Python automation for container resource monitoring
+- 🧪 JMeter automation testing integration
+
+</details>
+
+---
+
+## 🌍 Global Footprint
+
+<div align="center">
+
+```
+                    🌏 INFRASTRUCTURE DEPLOYED ACROSS
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                                                           ║
+    ║   🇵🇭 Philippines    🇲🇾 Malaysia    🇵🇬 Papua New Guinea   ║
+    ║                                                           ║
+    ║   🇿🇲 Zambia    🇧🇼 Botswana    🇲🇼 Malawi    🇿🇼 Zimbabwe   ║
+    ║                                                           ║
+    ║   🇰🇪 Kenya                          🇸🇷 Suriname          ║
+    ║                                                           ║
+    ╚═══════════════════════════════════════════════════════════╝
+                        9+ Countries • 4 Continents
+                     Banking & Financial Infrastructure
+```
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayeshctl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jayeshctl&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshctl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea"/>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshctl&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
 ## 🎓 Education
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer_Science_Engineering-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lovely_Professional_University-2020--2024-1a1b27?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p align="center">
-  🏅 <b>Merit-Based Scholarship Recipient</b>
-</p>
+```
+🎓 B.Tech in Computer Science Engineering
+   Lovely Professional University • 2020 - 2024
+   
+   🏅 Merit-Based Scholarship Recipient
+```
 
----
-
-## 🌍 Global Impact
-
-<p align="center">
-<img src="https://img.shields.io/badge/🇵🇭_Philippines-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇲🇾_Malaysia-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇵🇬_Papua_New_Guinea-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇿🇲_Zambia-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇧🇼_Botswana-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇲🇼_Malawi-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇿🇼_Zimbabwe-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇰🇪_Kenya-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/🇸🇷_Suriname-326CE5?style=flat-square"/>
-</p>
-
-<p align="center"><i>Deployed and managed banking infrastructure across 9+ countries</i></p>
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📚 Currently Learning
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayeshctl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshctl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshctl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
+| 🎯 Focus Area | 📖 Topics |
+|:------------:|:----------|
+| 🔐 | Advanced Kubernetes Security & Networking |
+| 🔄 | GitOps Patterns & Best Practices |
+| ⚡ | Serverless & Event-Driven Architectures |
+| 🐍 | Python & Go for Platform Tooling |
+
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+## 📝 Latest Blog Posts
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔐_Advanced_K8s_Networking_&_Security-1a1b27?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔄_GitOps_Best_Practices-1a1b27?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Serverless_Architectures-1a1b27?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🐍_Python_&_Go_Mastery-1a1b27?style=for-the-badge"/>
-</p>
+<!-- BLOG-POST-LIST:START -->
+🔗 Check out my thoughts on DevOps, Cloud, and Infrastructure at **[jayeshsays.blog](https://jayeshsays.blog/)**
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
+## 🤝 Let's Connect!
 
 <a href="https://www.linkedin.com/in/jayeshsavkare">
-  <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://jayesh.savkare.com">
-  <img src="https://img.shields.io/badge/-Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://jayeshsays.blog/">
-  <img src="https://img.shields.io/badge/-Read_My_Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-Read-764ba2?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 <a href="mailto:jayesh.savkare.work@gmail.com">
-  <img src="https://img.shields.io/badge/-Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+### 💡 Open to collaborating on DevOps, Cloud, and Platform Engineering projects!
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20should%20be%20invisible%20-%20it%20just%20works.&author=Jayesh%20Savkare"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
