@@ -148,28 +148,7 @@ Prometheus • Grafana • Loki
 
 ---
 
-## 💼 Career Timeline
-
-```mermaid
-timeline
-    title My DevOps Journey
-    2021 : Cloud Intern @ Microsoft Azure
-         : FRT '21 Program
-    2023 : Technical Research Analyst @ Intellipaat
-         : AWS Services
-    2023 : DevOps Intern @ BankBuddy.ai
-         : 24/7 Infrastructure Support
-         : RHEL Deployments
-    2024 : Associate DevOps Engineer @ Affinsys AI
-         : Hybrid Infrastructure
-         : Kubernetes Clusters
-    2025 : DevOps Engineer @ Affinsys AI
-         : Core R&D Team
-         : Platform Engineering
-```
-
-<details>
-<summary><b>📋 Click to see detailed experience</b></summary>
+## 💼 Experience
 
 <br/>
 
@@ -203,8 +182,6 @@ timeline
 - 📦 RHEL server deployments across multiple environments
 - 🐍 Python automation for container resource monitoring
 - 🧪 JMeter automation testing integration
-
-</details>
 
 ---
 
