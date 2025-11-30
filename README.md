@@ -208,26 +208,6 @@ timeline
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayeshctl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jayeshctl&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshctl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea"/>
-
-<br/>
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshctl&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
