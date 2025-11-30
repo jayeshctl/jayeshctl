@@ -289,7 +289,7 @@ timeline
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20should%20be%20invisible%20-%20it%20just%20works.&author=Jayesh%20Savkare"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Automate%20the%20boring%20stuff%2C%20focus%20on%20what%20matters.&author=Jayesh%20Savkare"/>
 
 </div>
 
